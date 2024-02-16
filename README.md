@@ -79,12 +79,13 @@ The main goal of this project is to create an intelligent communication system t
 4. **Meeting Requests:**
    - Professors can view and accept or reject registered meeting requests.
      
-     ![10](https://github.com/AlirezaNR1/book-appointment/assets/59292708/ce41214d-be02-4a36-93db-07e280594958)
+     ![13first](https://github.com/AlirezaNR1/book-appointment/assets/59292708/59b9bc18-c5bc-4053-b54c-20eff16effdd)
+
 
 5. **Confirmed Meetings:**
    - Professors can view the list of confirmed meetings.
      
-     ![13first](https://github.com/AlirezaNR1/book-appointment/assets/59292708/65bf85f0-8110-4f3f-bde1-e7b9bcddba0f)
+     ![11](https://github.com/AlirezaNR1/book-appointment/assets/59292708/2ad291f9-acfb-4953-8dc6-60f3ca725c1d)
 
 
 6. **Schedule Management:**
