@@ -38,11 +38,16 @@ The main goal of this project is to create an intelligent communication system t
 1. **Student Registration:**
    - Ferdowsi University students can register their application by scanning their student card.
    - Non-students can register by entering their name and email.
+     ![5](https://github.com/AlirezaNR1/book-appointment/assets/59292708/e440446f-1911-4b7d-80ee-59c7d3920993)
+     ![6](https://github.com/AlirezaNR1/book-appointment/assets/59292708/30e1ebd2-a67f-4fda-b9d9-64010772c089)
+
 2. **Authentication:**
    - After authentication, users can select the desired professor from the list and view their schedule and current attendance status.
 3. **Meeting Request:**
    - Users can request a meeting time with the professor based on their availability.
    - They can attach an explanation to the request.
+     ![7](https://github.com/AlirezaNR1/book-appointment/assets/59292708/cc390916-18cc-4da8-a4a0-934d893573eb)
+
 4. **Confirmation:**
    - If the request is accepted, a confirmation email will be sent to the student.
   
@@ -52,13 +57,23 @@ The main goal of this project is to create an intelligent communication system t
 ### Professors' Monitoring and Access Process:
 1. **Login:**
    - Professors log in to their account.
+     ![9](https://github.com/AlirezaNR1/book-appointment/assets/59292708/ec17278e-45ca-4ccb-86de-72c70ccd1112)
+
 2. **Status Update:**
    - Professors can set their current attendance status to be displayed on the LCD.
+     ![1](https://github.com/AlirezaNR1/book-appointment/assets/59292708/17c97955-ea43-4b68-82f6-ff81d1e2f1f2)
+
 3. **Remote Door Access:**
    - Professors can remotely open the room door.
+     ![2](https://github.com/AlirezaNR1/book-appointment/assets/59292708/f1e0cbbf-8541-4074-8b21-46ead74b1419)
+
 4. **Meeting Requests:**
    - Professors can view and accept or reject registered meeting requests.
+     ![10](https://github.com/AlirezaNR1/book-appointment/assets/59292708/ce41214d-be02-4a36-93db-07e280594958)
+
 5. **Confirmed Meetings:**
    - Professors can view the list of confirmed meetings.
+     ![11](https://github.com/AlirezaNR1/book-appointment/assets/59292708/c86698c2-e21a-4b5f-b8d7-b8bc36641c7d)
+
 6. **Schedule Management:**
    - Professors can view and make changes to their weekly schedule.
