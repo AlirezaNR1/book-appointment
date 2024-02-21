@@ -71,10 +71,16 @@ The main goal of this project is to create an intelligent communication system t
      
      ![1](https://github.com/AlirezaNR1/book-appointment/assets/59292708/17c97955-ea43-4b68-82f6-ff81d1e2f1f2)
 
+     ![photo_2024-02-17_14-21-01](https://github.com/AlirezaNR1/book-appointment/assets/59292708/8797e5f3-9d6c-4c30-88d4-56262f070489)
+
+
 3. **Remote Door Access:**
-   - Professors can remotely open the room door.
+   - Professors can remotely open the room door. (It is simulated by turning on the LED)
      
      ![2](https://github.com/AlirezaNR1/book-appointment/assets/59292708/f1e0cbbf-8541-4074-8b21-46ead74b1419)
+
+     ![photo_2024-02-17_14-20-54](https://github.com/AlirezaNR1/book-appointment/assets/59292708/05d239a1-85fd-4a7f-b3b4-cffc1393d90b)
+
 
 4. **Meeting Requests:**
    - Professors can view and accept or reject registered meeting requests.
