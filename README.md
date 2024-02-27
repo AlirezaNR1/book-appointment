@@ -90,7 +90,7 @@ The main goal of this project is to create an intelligent communication system t
 
 
 5. **Confirmed Meetings:**
-   - Professors can view the list of confirmed meetings.
+   - Professors are able to view the list of confirmed meetings.
      
      ![11](https://github.com/AlirezaNR1/book-appointment/assets/59292708/2ad291f9-acfb-4953-8dc6-60f3ca725c1d)
 
